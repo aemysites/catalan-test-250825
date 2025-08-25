@@ -1,0 +1,1022 @@
+{
+  "originUrl": "https://www.valtra.com",
+  "aborted": false,
+  "lastCrawled": "https://www.valtra.com/",
+  "urls": [
+    {
+      "url": "https://www.valtra.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "55386813a030d2a8363c7520a339a1f66ef30dd5"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders",
+      "id": "881b0ffc329be1f88a191e0b9f2219cccdaecdef"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/Black-Week-Hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/black-week-hero",
+      "id": "e45811e1eb4ca054891b4455e23783c2480dbbd0"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/Black-Week-Hero2023.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/black-week-hero2023",
+      "id": "032d63b40e1fc731beea496ec3f3e5d6367288c5"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/christmas_hero_2022.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/christmas-hero-2022",
+      "id": "b22b4430a5fb2ccbe6d0beaf71d9e181baadd8f2"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/factory-tour-safety-instructions/safety-instructions-for-a-factory-visit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/factory-tour-safety-instructions/safety-instructions-for-a-factory-visit",
+      "id": "b70b1a1476c24c44ce11e494ed8be940b4f4c9ab"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/factory-tour-safety-instructions/tehdasvierailun-turvallisuusohjeet.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/factory-tour-safety-instructions/tehdasvierailun-turvallisuusohjeet",
+      "id": "b21b9d6a7241fffab4b98359b33c830964aa032a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/hero-size-test.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/hero-size-test",
+      "id": "c3952c563f58654ba446c9bd16fa3dd5528a47bd"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/hero-slide-01.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/hero-slide-01",
+      "id": "a401b087b39ea35a8b01db54e42084ddb770ecd8"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel",
+      "id": "f038c5fe7c74a1b5ce6c2f14000863ed4680933e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/10-years-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/10-years-home",
+      "id": "56dac81b4e1e653ee2acc107a86189abb7b1d4f6"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/70th-anniversary-front-page-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/70th-anniversary-front-page-hero",
+      "id": "ce713d60c7de37c35a304d142247ba015fec4ea8"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/a-series-upgrade-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/a-series-upgrade-home-hero",
+      "id": "af314c28cbec19fca44671478861731a9cbd1fd4"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/agritechnica-2023-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/agritechnica-2023-home-hero",
+      "id": "85ddb5db072845f943a632e03b706d20b2b512c8"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/better-farm-soil-health-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/better-farm-soil-health-home-hero",
+      "id": "068f6ba670573b2a3289f65f78320d60f3d8ab2f"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/better-work-health-and-safety-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/better-work-health-and-safety-home-hero",
+      "id": "ca9aeb7cc5a8a21606d92fe27808156cba7a7812"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/black_week_home_hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/black-week-home-hero",
+      "id": "e759f70d97a0b3a3f6831c931c6e9fbda41518d0"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/Black-Week-2023-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/black-week-2023-home-hero",
+      "id": "9e6888a697953ea863d273cc206cc79095d97c23"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/christmas-home-hero-2022.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/christmas-home-hero-2022",
+      "id": "b6f50073eca38ed5f3f62fee1c41f9e80373c9fc"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/farm-machine-2022-utility-tractor.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/farm-machine-2022-utility-tractor",
+      "id": "ac035414e119c963ba8f7309dfa7f72fb3bc80d9"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/farm-machine-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/farm-machine-home-hero",
+      "id": "43618eaed8ed7bd919bb40e3b776ae9b9ac824f5"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/g-series-hero-slide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/g-series-hero-slide",
+      "id": "6e90c76a4ac6d5b2577b64401a2c66595a202405"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/halloween-2022.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/halloween-2022",
+      "id": "9539657df6315d4d3d2e0c5a246ccd50507bb8a9"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/its-simple-math-comfort-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/its-simple-math-comfort-home-hero",
+      "id": "85a9a4d5d6f9a24baa4f99f0f0438b7f1100a60c"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/its-simple-math-technology-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/its-simple-math-technology-home-hero",
+      "id": "bee7c9c05e05ee0b2776cf34f69b8e16b7f359a9"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/launch-april-16-front-page-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/launch-april-16-front-page-hero",
+      "id": "301c246edd896c178d9cd2d55b1768a5b3c6ec09"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/launch-teaser-week-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/launch-teaser-week-1",
+      "id": "afa4e498ba03276ed1747cd28a7c49fa39a9730d"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/launch-teaser-week-2.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/launch-teaser-week-2",
+      "id": "823d0b1248eeb3c02aaea050ca43210a877a1e99"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/launch-teaser-week-3.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/launch-teaser-week-3",
+      "id": "b6f5336d5c500c328f15430ba9203dd6e528c647"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/launch-teaser-week-4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/launch-teaser-week-4",
+      "id": "0ebfc66802460f690bcb8332a3c92e30a7f89834"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/lets-trade-keys-front-page.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/lets-trade-keys-front-page",
+      "id": "17e7319404f2fdbfb38615c87999f3d7f95aa52a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/product-launch-teaser-front-page-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/product-launch-teaser-front-page-hero",
+      "id": "0d0413650af9986d2767c72337601ca9431ab22a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/q-series-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/q-series-home-hero",
+      "id": "15516b9c33ee9d1d05792b77b502d0be2f02f807"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/q-series-home-hero/thinks-like-a-pro-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/q-series-home-hero/thinks-like-a-pro-hero",
+      "id": "e0f6249b3aff1903863c4f019194550eb2134ad3"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/q-series-home-hero/works-like-a-beast-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/q-series-home-hero/works-like-a-beast-hero",
+      "id": "3adcd3e2592d29f980d8f24ddf5a40eff644781f"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/s6-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/s6-home",
+      "id": "92458ce6ad9558a83b65775fb0d1639b1ead60dd"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/s6-home/s6-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/s6-home/s6-home",
+      "id": "25d7bfc2984716ea24a261123f922449d7c4ac39"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-1",
+      "id": "65bd5a6053ab52c58c4b7654e05c59a23afe053c"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-11.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-11",
+      "id": "5435cd5b4007cac1da25ade94df2001c677be5de"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-2.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-2",
+      "id": "665278bf28d48b5751eb9e77f5f3fca9690583d7"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-3.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-3",
+      "id": "4441e42e75bb3abbc4f245cfd0d270d34e88e963"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-4",
+      "id": "18424aac5c3d2ce6053e408f3c9879488d201b33"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-5.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-5",
+      "id": "907d7c15f8f27d9f282cb7de17db9767cfacc656"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-6.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-6",
+      "id": "4925227053cf30c002e1254d21a7f79f3dbb365a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-7.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-7",
+      "id": "2519621aef39853959b4d4475840851dea8fb6e6"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-8.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-8",
+      "id": "b1c1605fe5d7a1b2b87b1344144ae3c88a81c232"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/slide-9.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/slide-9",
+      "id": "080834cc2db1d9284029372ea1270731b1cccf1b"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/smart-moves-made-easy-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/smart-moves-made-easy-home-hero",
+      "id": "795ca16406d763a5dbf4e9d1f3e3a5309d003f25"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/smart-safety.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/smart-safety",
+      "id": "e24157fac786faa535cfa0aaabf936df13be982e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/SmartTour2023Home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/smarttour2023home",
+      "id": "e67b0ab7b036ae2602cecdbf4cee88b7d1ce59d9"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/Unlimited-10-years-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/unlimited-10-years-home-hero",
+      "id": "cae77423f1bb7a13d1c2ab21e0590d5438f7ada4"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/Unlimited-10-years-home-hero1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/unlimited-10-years-home-hero1",
+      "id": "1d658958113b12c98d3319ea8330489c73f57198"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-better-farm-soil-health-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-better-farm-soil-health-home-hero",
+      "id": "4d55ddaca515f686f5e28ff47683dc359216804e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-black-week-2024-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-black-week-2024-home-hero",
+      "id": "7fea9bad2669c2d29e50a2ed12cfcf2118eab34a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-christmas-2024-home-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-christmas-2024-home-hero",
+      "id": "bb897c559348f2f79b6cb302929db92355ee5627"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-home-farm-machine-2022.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-home-farm-machine-2022",
+      "id": "6e6fef14af11a5862e6ea9ac4a256d3728818e3e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-smarttour-2025-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-smarttour-2025-home",
+      "id": "71fe00f20112b28848194d6107d65569444d2f3e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/home-hero-carousel/valtra-unlimited-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/home-hero-carousel/valtra-unlimited-home",
+      "id": "46edef45cab9255156d9fcbba99eb5b4d078915d"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/platform-slide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/platform-slide",
+      "id": "7c1c9b3e96256b59c42e576e221a66f0e7f17e34"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel",
+      "id": "7161b9040228a79ede8142f3b9d21cf27eae41c7"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/10-years.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/10-years",
+      "id": "df892947d38cd1d3203fcedb8820aaa4ba40708a"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/2023-Unlimited-Campaigns.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/2023-unlimited-campaigns",
+      "id": "32a42dd89a9f1028b862cf2f834a5d53ed5f4e42"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/slide-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/slide-1",
+      "id": "99ae63c8797725790150752443117fdab055e707"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/slide-2.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/slide-2",
+      "id": "a2a715cabdf7722bc96ec00e5ead0b3caebd6e29"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/slide-3.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/slide-3",
+      "id": "e0b9d44b7992b5ebfff0228338f9965dd2ba1504"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/slide-4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/slide-4",
+      "id": "2354d332502108fbba49937f24f356a8897014fb"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/slide-5.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/slide-5",
+      "id": "5ff5a548850480ed4795e61212d35e33753c6a94"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Unlimited-10-years-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-10-years-hero",
+      "id": "10a6ccdcd23515fc1014699671961a49f3c24031"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-farming-02.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-farming-02",
+      "id": "4ca885b757e0299801d8cd15061209639bcfeb86"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-farming-03.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-farming-03",
+      "id": "13908cc1f111bcd3dd826483f55c17dfd3d91b3b"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-farming-04.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-farming-04",
+      "id": "14499559fdde46d7f16f7c1a4c81681ad602cdfb"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-farming.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-farming",
+      "id": "2604e6b5148c5f719599fced33fb89bf37a8a9f6"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-farming0.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-farming0",
+      "id": "b1aa050eaf15ae201f4a00c0ccfe45bbb8a58984"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Unlimited-home-10-years.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-home-10-years",
+      "id": "58329d2440eb1493ec63a15f34cf306a53abf3b1"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-home-farming.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-home-farming",
+      "id": "513471655e86a9fdc22102d2dca73320d064b1f7"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-special-home-solutions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-special-home-solutions",
+      "id": "0b6c648eb06f609ee20f349d0f3c4c79e03f353f"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited-special-solutions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited-special-solutions",
+      "id": "0245d5a325e5e3fca211d3d0a08c161fb86805da"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimited10years.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimited10years",
+      "id": "d6da465e7ad05105f73d256d631c033d260cef5c"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/unlimitedcampaign2022hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/unlimitedcampaign2022hero",
+      "id": "f2e2590b2543834932831aef894eea788bb2a608"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-airport-hero-small.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-airport-hero-small",
+      "id": "c954d926c19a81f48fbd637f36312aa7567eac85"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Valtra-Unlimited-Airport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-airport",
+      "id": "24b9bf42a47986805c568260c67b09c1c4e6e69f"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-farming-hero-2024.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-farming-hero-2024",
+      "id": "8a27d9c793f6a41ad7e4f0ed68bceceecac8b5f8"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-farming-hero.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-farming-hero",
+      "id": "eec78d0fafd6fd9757385a6dd3494de1ee0f5e49"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-her-2024.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-her-2024",
+      "id": "4b3fa4f933bf7c17fab20d9763a0cd983e9b91ff"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Valtra-Unlimited-home-Airport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-home-airport",
+      "id": "f8f29530b35749371df8d1afea166dcb9add807e"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Valtra-Unlimited-home-Municipality.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-home-municipality",
+      "id": "d71d9c7839e4316cdd860153dbd428646b27a00b"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-home",
+      "id": "f914e7a5ca7f3467fb4b912a3a9489445971d0f8"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-municipality-hero-small.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-municipality-hero-small",
+      "id": "7a2c5e69ed159c4a8765a990e171cdd85968372c"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Valtra-Unlimited-Municipality.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-municipality",
+      "id": "684fee9ad6edcb557caad4f11768a5ff6d14ba5c"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/Valtra-Unlimited-Special-Solutions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-special-solutions",
+      "id": "2e6782c81d540894e31c33c82b95063776484b22"
+    },
+    {
+      "url": "https://www.valtra.com/data-holders/unlimited-hero-carousel/valtra-unlimited-specialist-solutions-hero-small.html",
+      "source": "SITEMAPS",
+      "targetPath": "/data-holders/unlimited-hero-carousel/valtra-unlimited-specialist-solutions-hero-small",
+      "id": "4d22a3d354cdb2277aee5248a6f1f1e2f7db719c"
+    },
+    {
+      "url": "https://www.valtra.com/dealer-locator.html",
+      "source": "SITEMAPS",
+      "targetPath": "/dealer-locator",
+      "id": "54e73b4dfef98caa72a5b49e4942a69416033d60"
+    },
+    {
+      "url": "https://www.valtra.com/downloads/brochures.html",
+      "source": "SITEMAPS",
+      "targetPath": "/downloads/brochures",
+      "id": "a0c85d1dbe8da682341e9c64a34afc7275845c20"
+    },
+    {
+      "url": "https://www.valtra.com/downloads/valtra-team.html",
+      "source": "SITEMAPS",
+      "targetPath": "/downloads/valtra-team",
+      "id": "38b976df68f5316b616367f6270f7441ad27a166"
+    },
+    {
+      "url": "https://www.valtra.com/downloads/whitepapers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/downloads/whitepapers",
+      "id": "735aef8e283464427bc5778bcafea02f3bebad80"
+    },
+    {
+      "url": "https://www.valtra.com/insights.html",
+      "source": "SITEMAPS",
+      "targetPath": "/insights",
+      "id": "eb3a440c0ee73f39156f45c2226885cdf2ffe01d"
+    },
+    {
+      "url": "https://www.valtra.com/insights/smart-farming/about-smart-farming.html",
+      "source": "SITEMAPS",
+      "targetPath": "/insights/smart-farming/about-smart-farming",
+      "id": "978d6847ed5900e86d3b3b57576454c37d7da901"
+    },
+    {
+      "url": "https://www.valtra.com/insights/smart-farming/about-smart-farming/get-your-smart-farming-whitepaper.html",
+      "source": "SITEMAPS",
+      "targetPath": "/insights/smart-farming/about-smart-farming/get-your-smart-farming-whitepaper",
+      "id": "03b1b8a80857b15566f74bd51877fe785fb76e77"
+    },
+    {
+      "url": "https://www.valtra.com/insights/smart-farming/about-smart-farming/thank-you.html",
+      "source": "SITEMAPS",
+      "targetPath": "/insights/smart-farming/about-smart-farming/thank-you",
+      "id": "fcf26e02edc38b0ff94549fba47da3cf620df745"
+    },
+    {
+      "url": "https://www.valtra.com/your-rights.html",
+      "source": "SITEMAPS",
+      "targetPath": "/your-rights",
+      "id": "370f49029c1acf26642ebdf99148b8da28878f35"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.valtra.com/insights/smart-farming.html",
+      "status": "302 Found Redirect: https://www.valtra.com.arinsights/smart-farming/about-smart-farming.html"
+    },
+    {
+      "url": "https://www.valtra.at/bessere-arbeitssicherheit.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/bessere-arbeitssicherheit.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/bodengesundheit/landwirte-boden-verschlaemmung-vermeiden.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/bodengesundheit/landwirte-boden-verschlaemmung-vermeiden.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/kundenberichte/aller-guten-dinge-sind-drei.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/kundenberichte/aller-guten-dinge-sind-drei.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/kundenberichte/automatisierte-lenkung-und-isobus-nachger-stet-beim-22-jahre-alten-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/kundenberichte/automatisierte-lenkung-und-isobus-nachger-stet-beim-22-jahre-alten-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/kundenberichte/madchen-fur-alles.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/kundenberichte/madchen-fur-alles.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/kundenberichte/upgrade-fur-biebl-hackgut.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/kundenberichte/upgrade-fur-biebl-hackgut.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/technologie/feuerloesch-systeme-traktoren.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/technologie/feuerloesch-systeme-traktoren.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/technologie/gewinn-landwirte-umwelt-erneuerbarer-diesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/technologie/gewinn-landwirte-umwelt-erneuerbarer-diesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/technologie/smart-farming-zahlt-sich-aus.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/technologie/smart-farming-zahlt-sich-aus.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/blog/technologie/traktorfahren-leicht-gemacht.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/blog/technologie/traktorfahren-leicht-gemacht.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.at/news/valtra-s-serie-gewinnt-red-dot-design-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.at/news/valtra-s-serie-gewinnt-red-dot-design-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/about/awards.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/about/awards.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/better-work-health-and-safety.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/better-work-health-and-safety.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/blog/technology/how-smart-farming-pays-for-itself.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/blog/technology/how-smart-farming-pays-for-itself.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/blog/Tractors/a-win-for-farmers-and-the-environment-renewable-diesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/blog/Tractors/a-win-for-farmers-and-the-environment-renewable-diesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/blog/Tractors/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/blog/Tractors/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/news-and-events/Valtra-is-set-to-exhibit-at-the-2025-Royal-Highland-Show-and-Royal-Welsh-Show.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/news-and-events/Valtra-is-set-to-exhibit-at-the-2025-Royal-Highland-Show-and-Royal-Welsh-Show.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/news-and-events/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/news-and-events/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 403"
+    },
+    {
+      "url": "https://www.valtra.co.uk/testimonials/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/testimonials/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/testimonials/College-has-access-to-fleet-of-Valtra-tractors.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/testimonials/College-has-access-to-fleet-of-Valtra-tractors.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/testimonials/G-Series-helping-with-habitat-management.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/testimonials/G-Series-helping-with-habitat-management.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.co.uk/testimonials/Valtra-Fleet-at-Dunlossit-Estate.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.co.uk/testimonials/Valtra-Fleet-at-Dunlossit-Estate.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/about/awards.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/about/awards.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/better-work-health-and-safety.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/better-work-health-and-safety.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/blog/technology/how-smart-farming-pays-for-itself.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/blog/technology/how-smart-farming-pays-for-itself.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/blog/Tractors/a-win-for-farmers-and-the-environment-renewable-diesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/blog/Tractors/a-win-for-farmers-and-the-environment-renewable-diesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/blog/Tractors/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/blog/Tractors/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/blog/Tractors/tractor-driving-made-easy.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/blog/Tractors/tractor-driving-made-easy.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/news-and-events/News/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/news-and-events/News/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/testimonials/farming/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/testimonials/farming/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/testimonials/farming/big-savings-with-valtra-section-control.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/testimonials/farming/big-savings-with-valtra-section-control.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.com/testimonials/farming/farmers-choose-an-unconventional-vehicle-for-their-wedding.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.com/testimonials/farming/farmers-choose-an-unconventional-vehicle-for-their-wedding.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.cz/udalosti-a-novinky/Valtra-serie-S-obdrzela-Red-Dot-oceneni-S-cenou-Best-of-the-Best-Award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.cz/udalosti-a-novinky/Valtra-serie-S-obdrzela-Red-Dot-oceneni-S-cenou-Best-of-the-Best-Award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/bessere-arbeitssicherheit.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/bessere-arbeitssicherheit.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/bodengesundheit/landwirte-boden-verschlaemmung-vermeiden.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/bodengesundheit/landwirte-boden-verschlaemmung-vermeiden.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/kundenberichte/automatisierte-lenkung-und-isobus-nachger-stet-beim-22-jahre-alten-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/kundenberichte/automatisierte-lenkung-und-isobus-nachger-stet-beim-22-jahre-alten-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/kundenberichte/einsparung-valtra-section-control.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/kundenberichte/einsparung-valtra-section-control.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/technologie/feuerloesch-systeme-traktoren.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/technologie/feuerloesch-systeme-traktoren.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/technologie/gewinn-landwirte-umwelt-erneuerbarer-diesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/technologie/gewinn-landwirte-umwelt-erneuerbarer-diesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/technologie/smart-farming-zahlt-sich-aus.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/technologie/smart-farming-zahlt-sich-aus.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/blog/technologie/traktorfahren-leicht-gemacht.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/blog/technologie/traktorfahren-leicht-gemacht.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.de/news/valtra-s-serie-gewinnt-red-dot-design-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.de/news/valtra-s-serie-gewinnt-red-dot-design-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/bedre-arbejdsmiljoe-og-sikkerhed.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/bedre-arbejdsmiljoe-og-sikkerhed.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/teknologi/hvordan-smart-farming-betaler-sig-selv.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/teknologi/hvordan-smart-farming-betaler-sig-selv.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/traktorer/behovet-for-brandslukningssystemer-i-traktorer.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/traktorer/behovet-for-brandslukningssystemer-i-traktorer.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/traktorer/en-gevinst-for-landmaend-og-miljoe-anden-generations-biodiesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/traktorer/en-gevinst-for-landmaend-og-miljoe-anden-generations-biodiesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/traktorer/traktorkoersel-goeres-let.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/traktorer/traktorkoersel-goeres-let.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/valtras-verden/autostyring-og-isobus-eftermonteret-p--22--r-gammel-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/valtras-verden/autostyring-og-isobus-eftermonteret-p--22--r-gammel-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/blog/valtras-verden/store-besparelser-med-valtra-sektionskontrol.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/blog/valtras-verden/store-besparelser-med-valtra-sektionskontrol.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.dk/nyheder-og-events/valtra-s-serie-vinder-red-dot-best-of-the-best-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.dk/nyheder-og-events/valtra-s-serie-vinder-red-dot-best-of-the-best-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/acerca-de-valtra/Premios.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/acerca-de-valtra/Premios.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/mejor-trabajar-sano-y-seguro.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/mejor-trabajar-sano-y-seguro.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/Como-evitar-el-embarrado-del-suelo.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/Como-evitar-el-embarrado-del-suelo.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/Como-se-amortiza-la-agricultura-inteligente.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/Como-se-amortiza-la-agricultura-inteligente.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/conducir-un-tractor-es-f-cil.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/conducir-un-tractor-es-f-cil.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/Direccion-automatica-e-Isobus-instalados-en-un-Valtra-8400-de-hace-22-anos.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/Direccion-automatica-e-Isobus-instalados-en-un-Valtra-8400-de-hace-22-anos.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/Grandes-ahorros-con-el-Control-de-Secciones-Valtra.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/Grandes-ahorros-con-el-Control-de-Secciones-Valtra.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/News/La-Serie-S-de-valtra-galardonada-con-el-premio-Red-Dot.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/News/La-Serie-S-de-valtra-galardonada-con-el-premio-Red-Dot.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/News/serie-s-valtra-best-of-the-best-award-2025.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/News/serie-s-valtra-best-of-the-best-award-2025.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.es/noticias-y-eventos/una-victoria-para-los-agricultores-y-el-medio-ambiente-gasoleo-renovable.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.es/noticias-y-eventos/una-victoria-para-los-agricultores-y-el-medio-ambiente-gasoleo-renovable.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fi/asiakastarinat/22-vuotta-vanhassa-valtra-8400-ssa-on-jalkiasennettu-automaattiohjaus-ja-isobus.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fi/asiakastarinat/22-vuotta-vanhassa-valtra-8400-ssa-on-jalkiasennettu-automaattiohjaus-ja-isobus.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fi/asiakastarinat/Maanviljelijat-valitsevat-epatavanomaisen-ajoneuvon-haitaan-varten.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fi/asiakastarinat/Maanviljelijat-valitsevat-epatavanomaisen-ajoneuvon-haitaan-varten.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fi/blogi/traktorit/traktorin-ajaminen-helpoksi.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fi/blogi/traktorit/traktorin-ajaminen-helpoksi.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fi/blogi/traktorit/Voitto-viljelij-ille-ja-ymp-rist-lle--Uusiutuva-diesel.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fi/blogi/traktorit/Voitto-viljelij-ille-ja-ymp-rist-lle--Uusiutuva-diesel.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fi/uutiset-ja-tapahtumat/News/Valtra-S-sarja-voittaa-Red-Dot-palkinnon-Best-of-Best.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fi/uutiset-ja-tapahtumat/News/Valtra-S-sarja-voittaa-Red-Dot-palkinnon-Best-of-Best.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/actualites-et-evenement/News/serie-s-valtra-remporte-red-dot-meilleur-prix.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/actualites-et-evenement/News/serie-s-valtra-remporte-red-dot-meilleur-prix.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/amelioration-sante-securite-travail.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/amelioration-sante-securite-travail.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/blog/technologie/comment-l-agriculture-intelligente-s-autofinance.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/blog/technologie/comment-l-agriculture-intelligente-s-autofinance.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/blog/tracteurs/Conduire-un-tracteur-devient-facile.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/blog/tracteurs/Conduire-un-tracteur-devient-facile.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/blog/tracteurs/Une-victoire-pour-les-agriculteurs-et-pour-l-environnement--le-diesel-renouvelable-.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/blog/tracteurs/Une-victoire-pour-les-agriculteurs-et-pour-l-environnement--le-diesel-renouvelable-.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.fr/testimonials/economie-valtra-section-control.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.fr/testimonials/economie-valtra-section-control.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/better-work-health-and-safety.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/better-work-health-and-safety.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/blog/tecnologia/how-smart-farming-pays-for-itself.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/blog/tecnologia/how-smart-farming-pays-for-itself.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/blog/trattori/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/blog/trattori/the-critical-need-for-fire-suppression-systems-in-tractors.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/blog/trattori/tractor-driving-made-easy.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/blog/trattori/tractor-driving-made-easy.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/informazioni-su-valtra/awards.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/informazioni-su-valtra/awards.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/novita-ed-eventi/News/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/novita-ed-eventi/News/valtra-s-series-awarded-red-dot-best-of-the-best-award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/testimonials/agricoltura/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/testimonials/agricoltura/automated-steering-and-isobus-retrofitted-on-22-year-old-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.it/testimonials/agricoltura/big-savings-with-valtra-section-control.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.it/testimonials/agricoltura/big-savings-with-valtra-section-control.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.nl/Betere-werk-gezondheid-en-veiligheid.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.nl/Betere-werk-gezondheid-en-veiligheid.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.nl/blog/de-wereld-van-valtra/geautomatiseerde-besturing-en-isobus-achteraf-op-22-jaar-oude-valtra-8400.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.nl/blog/de-wereld-van-valtra/geautomatiseerde-besturing-en-isobus-achteraf-op-22-jaar-oude-valtra-8400.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/bedre-hms-pa-arbeidsplassen.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/bedre-hms-pa-arbeidsplassen.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/blogg/agronomi-og-jordhelse/hvordan-bonder-kan-unnga-jordskader-fra-jordsmoring.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/blogg/agronomi-og-jordhelse/hvordan-bonder-kan-unnga-jordskader-fra-jordsmoring.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/blogg/teknologi/hvordan-smart-landbruk-betaler-seg-selv.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/blogg/teknologi/hvordan-smart-landbruk-betaler-seg-selv.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/blogg/traktorer/hvorfor-brannslukningsutstyr-i-traktor-er-viktig.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/blogg/traktorer/hvorfor-brannslukningsutstyr-i-traktor-er-viktig.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/blogg/traktorer/traktorkjoring-gjort-enkelt.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/blogg/traktorer/traktorkjoring-gjort-enkelt.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/blogg/valtra-world/dansk-par-valgte-utradisjonell-bryllupstransport1.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/blogg/valtra-world/dansk-par-valgte-utradisjonell-bryllupstransport1.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/nyheter-og-arrangementer/valtra-s-serie-tildelt-red-dot-best-of-the-best-utmerkelse.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/nyheter-og-arrangementer/valtra-s-serie-tildelt-red-dot-best-of-the-best-utmerkelse.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.no/om-valtra/utmerkelser.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.no/om-valtra/utmerkelser.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/aktualnosci-i-wydarzenia/news/Valtra-serii-S-nagrodzona-Red-Dot--Best-of-the-Best-Award.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/aktualnosci-i-wydarzenia/news/Valtra-serii-S-nagrodzona-Red-Dot--Best-of-the-Best-Award.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/blog/ciagniki/Krytyczne-zapotrzebowanie-na-systemy-gasnicze-w-ciagnikach.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/blog/ciagniki/Krytyczne-zapotrzebowanie-na-systemy-gasnicze-w-ciagnikach.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/blog/ciagniki/Zwyciestwo-dla-rolnikow-i-srodowiska-odnawialny-olej-napedowy.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/blog/ciagniki/Zwyciestwo-dla-rolnikow-i-srodowiska-odnawialny-olej-napedowy.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/blog/technologia/Dlaczego-inteligentne-rolnictwo-sie-oplaca.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/blog/technologia/Dlaczego-inteligentne-rolnictwo-sie-oplaca.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/o-valtrze/nagrody.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/o-valtrze/nagrody.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/wasze-historie/rolnictwo/automatyczne-sterowanie-i-isobus-zmodernizowane-w-22-letnim-ci-gniku-valtra.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/wasze-historie/rolnictwo/automatyczne-sterowanie-i-isobus-zmodernizowane-w-22-letnim-ci-gniku-valtra.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/wasze-historie/rolnictwo/Duze-oszczednosci-dzieki-Valtra-Section-Control.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/wasze-historie/rolnictwo/Duze-oszczednosci-dzieki-Valtra-Section-Control.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.pl/wieksze-bezpieczenstwo-i-higiena-pracy.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.pl/wieksze-bezpieczenstwo-i-higiena-pracy.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    },
+    {
+      "url": "https://www.valtra.se/Battre-arbetsmiljo-och-okad-sakerhet-i-traktorn.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.valtra.se/Battre-arbetsmiljo-och-okad-sakerhet-i-traktorn.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 400"
+    }
+  ]
+}
